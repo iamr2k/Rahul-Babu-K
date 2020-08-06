@@ -3,7 +3,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working at [Zlight]{https://www.zlight.in)
 - 🌱 I’m currently learning AI, ML and Blockchain
-- 📫 How to reach me: [@iamr2k](https://twitter.com/iamrahulr2kr)
+- 📫 How to reach me: [@iamr2k](https://twitter.com/iamrahulr2k)
 
 
 
@@ -16,6 +16,6 @@ This is the place where I opensource stuff and break things :rofl:
 <br />
 
 [twitter]: https://twitter.com/iamrahul2k
-[instagram]: https://instagram.com/iamr2k
+[instagram]: https://instagram.com/i.m_r2k
 [linkedin]: https://linkedin.com/in/rahulr2k
 [blog]: https://www.thisisrahul.ml
