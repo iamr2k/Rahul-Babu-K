@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working at [Zlight]{https://www.zlight.in)
+- 🔭 I’m currently working at [Zlight](https://www.zlight.in)
 - 🌱 I’m currently learning AI, ML and Blockchain
 - 📫 How to reach me: [@iamr2k](https://twitter.com/iamrahulr2k)
 
