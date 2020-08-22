@@ -7,7 +7,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 
 
-my latest work -> [Movie bird](https://moviebird.herokuapp.com) A Chatbot for movie lovers
+my latest work -> [Movie bird](https://moviebird.herokuapp.com) - A Chatbot for movie lovers
 
 
 ### Connect with me:
