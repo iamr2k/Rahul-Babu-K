@@ -7,9 +7,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 
 
-## Latest work 
+## Latest projects
+
 ## [Movie bird](https://moviebird.herokuapp.com) - A web app to find similar movies
-## [Movie bird](https://www.messenger.com/t/themoviebird) - AI powered chatbot for moviebird. #### strongly recommends to test it
+
+## [Movie bird](https://www.messenger.com/t/themoviebird) - AI powered chatbot for moviebird. strongly recommends to test it
 
 
 
