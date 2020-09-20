@@ -10,6 +10,7 @@ This is the place where I opensource stuff and break things :rofl:
 ## Latest projects
 
 ### [Movie bird](https://www.messenger.com/t/themoviebird) - AI powered chatbot for movie lovers
+#### Available in these platforms 👇
 #### [website](https://moviebird.herokuapp.com) , [Messenger](https://www.messenger.com/t/themoviebird)
 #### [Google Assistant](https://assistant.google.com/services/a/uid/000000c35b787294?hl=en) , [Alexa](https://alexa.amazon.com/)
 #### [Telegram](https://t.me/The_Movie_bird_bot)
@@ -23,7 +24,7 @@ This is the place where I opensource stuff and break things :rofl:
 [<img align="left" alt="iamr2k | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="iamr2k | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/blogger.svg" />][blog]
 <br />
-
+<br />
 [twitter]: https://twitter.com/iamrahul2k
 [instagram]: https://instagram.com/i.m_r2k
 [linkedin]: https://linkedin.com/in/rahulr2k
