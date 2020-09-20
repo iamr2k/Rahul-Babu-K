@@ -1,13 +1,16 @@
-### Hi there 👋
+## Welcome..  👋
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working at [Zlight](https://www.zlight.in)
-- 🌱 I’m currently learning AI, ML and Blockchain
-- 📫 How to reach me: [@iamr2k](https://twitter.com/iamrahulr2k)
+- 🔭 works at [Zlight](https://www.zlight.in)
+
+- 📫 reach me: [@iamr2k](https://twitter.com/iamrahulr2k)
 
 
 
-my latest work -> [Movie bird](https://moviebird.herokuapp.com) - A Chatbot for movie lovers
+## Latest work 
+## [Movie bird](https://moviebird.herokuapp.com) - A web app to find similar movies
+## [Movie bird](https://www.messenger.com/t/themoviebird) - AI powered chatbot for moviebird. #### strongly recommends to test it
+
 
 
 ### Connect with me:
