@@ -1,9 +1,3 @@
-## Welcome..  👋
-This is the place where I opensource stuff and break things :rofl:
-
-- 🔭 works at [Zlight](https://www.zlight.in)
-
-- 📫 reach me: [@iamr2k](https://twitter.com/iamrahulr2k)
 
 
 
