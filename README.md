@@ -9,8 +9,7 @@
 #### [Telegram](https://t.me/The_Movie_bird_bot) , [website](https://moviebird.herokuapp.com)
 
 
-# 
-# 
+
 ### Connect with me:
 
 [<img align="left" alt="iamr2k | Twitter" width="22px" src="https://raw.githubusercontent.com/iamr2k/iamr2k/master/icons8-twitter.svg" />][twitter]
