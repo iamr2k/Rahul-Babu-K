@@ -4,7 +4,7 @@
 ## Latest projects
 
 ### [Movie bird](https://moviebird.herokuapp.com) - AI chatbot for movie recommendation
-#### Created with [IMDb movie data (open source)](https://www.imdb.com/interfaces/) , [gensim](https://en.wikipedia.org/wiki/Gensim)  , [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition)
+#### Created with [IMDb](https://www.imdb.com/interfaces/) , [Gensim](https://en.wikipedia.org/wiki/Gensim)  , [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition)
 
 #### Movie search - web  - > [https://moviebird.herokuapp.com](https://moviebird.herokuapp.com)
 
@@ -14,7 +14,7 @@
 
 
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="iamr2k | Twitter" width="22px" src="https://raw.githubusercontent.com/iamr2k/iamr2k/master/icons8-twitter.svg" />][twitter]
 [<img align="left" alt="iamr2k | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iamr2k/iamr2k/master/icons8-linkedin-circled.svg" />][linkedin]
