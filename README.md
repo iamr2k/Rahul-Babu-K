@@ -13,10 +13,10 @@
 # 
 ### Connect with me:
 
-[<img align="left" alt="iamr2k | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="iamr2k | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iamr2k | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="iamr2k | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/blogger.svg" />][blog]
+[<img align="left" alt="iamr2k | Twitter" width="22px" src="https://raw.githubusercontent.com/iamr2k/iamr2k/master/icons8-twitter.svg" />][twitter]
+[<img align="left" alt="iamr2k | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iamr2k/iamr2k/master/icons8-linkedin-circled.svg" />][linkedin]
+[<img align="left" alt="iamr2k | Instagram" width="22px" src="https://raw.githubusercontent.com/iamr2k/iamr2k/master/icons8-instagram.svg" />][instagram]
+[<img align="left" alt="iamr2k | Blog" width="22px" src="https://raw.githubusercontent.com/iamr2k/iamr2k/master/icons8-blogger.svg" />][blog]
 <br />
 
 [twitter]: https://twitter.com/iamrahul2k
