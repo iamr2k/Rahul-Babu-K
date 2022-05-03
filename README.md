@@ -5,9 +5,13 @@
 
 ### [Movie bird](https://www.messenger.com/t/themoviebird) - AI chatbot for movie recommendation
 #### Created with [IMDb movie data (open source)](https://www.imdb.com/interfaces/) , [gensim](https://en.wikipedia.org/wiki/Gensim)  , [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition)
-#### try it in these platforms - >
+
+#### [website](https://moviebird.herokuapp.com)
+
+<br>
+#### try it on these platforms - >
 #### [Google Assistant](https://assistant.google.com/services/a/uid/000000c35b787294?hl=en) , [Messenger](https://www.messenger.com/t/themoviebird) , [Alexa](https://alexa.amazon.com/)
-#### [Telegram](https://t.me/The_Movie_bird_bot) , [website](https://moviebird.herokuapp.com)
+#### [Telegram](https://t.me/The_Movie_bird_bot) , 
 
 
 
