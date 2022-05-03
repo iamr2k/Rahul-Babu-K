@@ -6,7 +6,7 @@
 ### [Movie bird](https://moviebird.herokuapp.com) - AI chatbot for movie recommendation
 #### Created with [IMDb movie data (open source)](https://www.imdb.com/interfaces/) , [gensim](https://en.wikipedia.org/wiki/Gensim)  , [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition)
 
-#### [Movie search - web](https://moviebird.herokuapp.com)
+#### Movie search - web  - > [https://moviebird.herokuapp.com](https://moviebird.herokuapp.com)
 
 #### try it on these platforms - >
 
