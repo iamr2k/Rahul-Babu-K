@@ -12,15 +12,11 @@
 Implemented AI to optimise the motion parameters( turning speeds in different curves/straight line ) to maximize the speed and accuracy of a line following robot
 #### https://www.linkedin.com/posts/rahulr2k_reinforcementlearning-artificialintelliegence-activity-6774372506548731904-8778?utm_source=linkedin_share&utm_medium=member_desktop_web
 ---
-## Connect with me:
 
-[<img align="left" alt="iamr2k | Twitter" width="22px" src="https://raw.githubusercontent.com/iamr2k/iamr2k/master/icons8-twitter.svg" />][twitter]
-[<img align="left" alt="iamr2k | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iamr2k/iamr2k/master/icons8-linkedin-circled.svg" />][linkedin]
-[<img align="left" alt="iamr2k | Instagram" width="22px" src="https://raw.githubusercontent.com/iamr2k/iamr2k/master/icons8-instagram.svg" />][instagram]
-[<img align="left" alt="iamr2k | Blog" width="22px" src="https://raw.githubusercontent.com/iamr2k/iamr2k/master/icons8-blogger.svg" />][blog]
-<br />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamr2k&theme=react&layout=compact&langs_count=8&hide_border=true)
 
-[twitter]: https://twitter.com/iamrahul2k
-[instagram]: https://instagram.com/i.m_r2k
-[linkedin]: https://linkedin.com/in/rahulr2k
-[blog]: https://www.thisisrahul.ml
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamr2k&theme=react&show_icons=true&count_private=true&hide_border=true)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamr2k&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=00DDA4)
+
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=iamr2k&theme=react-dark&hide_border=true&area=true)
